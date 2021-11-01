@@ -17,7 +17,7 @@ export const CountriesList = () => {
 
   return (
     <div className="countries">
-      <h1>Countries List</h1>
+      <h1>Countries List App</h1>
       <div className="list">
         {countries.map((country, idx) => {
           return (
